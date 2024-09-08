@@ -1,4 +1,6 @@
 # podset-operator
+[https://developers.redhat.com/courses/openshift-operators/go-operator](https://developers.redhat.com/courses/openshift-operators/go-operator)
+
 // TODO(user): Add simple overview of use/purpose
 
 ## Description
